@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_stream_consumer/springcloud2_stream_consumer.iml" filepath="$PROJECT_DIR$/springcloud2_stream_consumer/springcloud2_stream_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_stream_parent.iml" filepath="$PROJECT_DIR$/springcloud2_stream_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_stream_producer/springcloud2_stream_producer.iml" filepath="$PROJECT_DIR$/springcloud2_stream_producer/springcloud2_stream_producer.iml" />
+    </modules>
+  </component>
+</project>

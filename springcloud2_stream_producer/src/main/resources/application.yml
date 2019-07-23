@@ -1,0 +1,11 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: app-stream-producer
+  rabbitmq:
+    host: 192.168.120.181
+    port: 5672
+    virtual-host: /
+    username: root
+    password: 123456
